@@ -1,3 +1,22 @@
+# Pi-hole Allowlist
+# Date: July 13, 2025
+#
+# This file contains a comprehensive list of domains that are typically used
+# as sources for blocklists in Pi-hole. While these domains themselves are
+# blocklist providers, they can sometimes be inadvertently blocked by overly
+# aggressive blocklists, leading to issues with updating your Pi-hole's
+# blocklists or accessing their resources.
+#
+# Adding these domains to your Pi-hole's allowlist (also known as a whitelist)
+# ensures that Pi-hole can consistently reach these sources for updates and
+# proper functionality, preventing potential disruptions.
+#
+# Note: This list is intended to allow access to *blocklist provider domains*,
+# not to generally whitelist all internet traffic. Use with caution and review
+# if you encounter unexpected behavior.
+#
+# --- Begin Allowlist Domains ---
+
 adaway.org
 adblock.gjtech.net
 adblock.mahakala.is
@@ -21,6 +40,7 @@ azure-dns.org
 bbs.pku.edu.cn
 blocklist.de
 blocklist.greensnow.co
+blocklist.site
 blocklistproject.github.io
 blokada.org
 browser.coccoc.com
@@ -42,6 +62,7 @@ easy-tracking-protection.truste.com
 easylist.to
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
+easyprivacy.to
 energized.pro
 ente.dev
 extupdate.orbitum.com
@@ -112,6 +133,7 @@ phish.sinking.yachts
 phishing.army
 phishing.mailscanner.info
 phishing-filter.pages.dev
+prigent-protect.com
 public-dns.info
 publicsuffix.org
 pup-filter.pages.dev
@@ -140,7 +162,7 @@ someonewhocares.org
 sourceforge.net
 static.snaptube.in
 static.squarespace.com
-stevenblack/hosts
+stevenblack.github.io
 stopforumspam.com
 supportforums.cisco.com
 sysctl.org
