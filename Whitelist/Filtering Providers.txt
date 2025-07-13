@@ -16,6 +16,30 @@
 #
 # --- Begin Allowlist Domains ---
 
+dl.red.flag.domains
+easylist-downloads.adblockplus.org
+filters.adavoid.org
+hole.cert.pl
+lists.cyberhost.uk
+pgl.yoyo.org
+phishing.army
+phishing-filter.pages.dev
+phish.sinking.yachts
+secure.fanboy.co.nz
+threatfox.abuse.ch
+threatview.io
+urlhaus.abuse.ch
+urlhaus-filter.pages.dev
+v.firebog.net
+vn-badsite-filter.pages.dev
+www.stopforumspam.com
+zoso.ro
+zonefiles.io
+easylist-downloads.adblockplus.org
+quidsup.net
+
+
+
 adaway.org
 adblock.gjtech.net
 adblock.mahakala.is
