@@ -1,18 +1,17 @@
-# Pi-hole Allowlist
+# Pi-hole Allowlist - Curated Blocklist Providers
 # Date: July 13, 2025
 #
-# This file contains a comprehensive list of domains that are typically used
-# as sources for blocklists in Pi-hole. While these domains themselves are
-# blocklist providers, they can sometimes be inadvertently blocked by overly
-# aggressive blocklists, leading to issues with updating your Pi-hole's
-# blocklists or accessing their resources.
+# This file contains a list of domains specifically identified as direct
+# sources for blocklists (e.g., hosts files, filter lists). These domains
+# are allowed to ensure Pi-hole can consistently fetch updates for its
+# blocking capabilities.
 #
-# Adding these domains to your Pi-hole's allowlist (also known as a whitelist)
-# ensures that Pi-hole can consistently reach these sources for updates and
-# proper functionality, preventing potential disruptions.
+# Domains that primarily serve as general hosting platforms, personal sites,
+# forums, or general security information sites (without directly hosting
+# raw blocklist files) have been removed to keep the allowlist focused.
 #
-# Note: This list is intended to allow access to *blocklist provider domains*,
-# not to generally whitelist all internet traffic. Use with caution and review
+# Note: This list allows access to *blocklist provider domains*, not to
+# generally whitelist all internet traffic. Use with caution and review
 # if you encounter unexpected behavior.
 #
 # --- Begin Allowlist Domains ---
@@ -22,73 +21,37 @@ adblock.gjtech.net
 adblock.mahakala.is
 adblock.vsevjednom.cz
 adblock-korea.googlecode.com
-adbrothers.nl
 adguard.com
 adguardteam.github.io
-adrules.top
-airvpn.org
-anal.fi
-angelfire.com
 anti-ad.net
-api.stopmodreposts.org
-askapache.com
-assets.windscribe.com
-a.dove.isdumb.one
 azorult-tracker.net
 azure-dns.info
 azure-dns.org
-bbs.pku.edu.cn
 blocklist.de
 blocklist.greensnow.co
 blocklist.site
 blocklistproject.github.io
-blokada.org
-browser.coccoc.com
-bugs.ruby-lang.org
-cdn.jsdelivr.net
-cinsscore.com
-cjoint.com
-codeberg.org
-community.cisco.com
 curben.gitlab.io
-cybercrime-tracker.net
-danger.rulez.sk
 dehakkelaar.nl
-denis-ovs.narod.ru
-dl.dropboxusercontent.com
-dl.red.flag.domains
-downloads.vivaldi.com
-easy-tracking-protection.truste.com
 easylist.to
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
 easyprivacy.to
 energized.pro
 ente.dev
-extupdate.orbitum.com
-fanboy.co.nz
-feeds.dshield.org
-feodotracker.abuse.ch
-fiberhost.hu
 filter.futa.gg
 filters.adavoid.org
 filters.adtidy.org
 filters.hufilter.hu
 filtri-dns.ga
-framagit.org
-ftp.opera.com
-gist.github.com
-gist.githubusercontent.com
 git.herrbischoff.com
 github.com
 githubusercontent.com
+gist.github.com
+gist.githubusercontent.com
 gitlab.com
 gmbksfilters.googlecode.com
-goodbyeads.weebly.com
-gurud.ee
 hblock.molinero.dev
-hessowan.prv.pl
-hmirror.molinero.dev
 hole.cert.pl
 hostfiles.frogeye.fr
 hosts-file.net
@@ -96,116 +59,37 @@ hosts.tweedge.net
 hostsaway.appspot.com
 hostsfile.mine.nu
 hostsfile.org
-i-dont-care-about-cookies.eu
-ideone.com
-in0de.synology.me
-inconnu.club
-jabcreations.com
-jaguarforums.com
-joewein.net
-leighb.com
-lists.blocklist.de
-lists.cyberhost.uk
 malware-filter.gitlab.io
 malware-filter.pages.dev
-malwareworld.com
-media.githubusercontent.com
-michael-prokop.at
-mikerichardson.name
-modhackmo.weebly.com
-mozgabyte.narod.ru
-nakedbrowser.com
-nixnet.services
-notabug.org
-npc.0am.jp
-nubi-network.com
-nwps.fi
-o0.pages.dev
 oisd.nl
-opt.cn2qq.com
 osint.digitalside.it
-parasite-eliminator.narod.ru
-paste.ee
-pastebin.com
-people.well.com
 pgl.yoyo.org
-phish.sinking.yachts
 phishing.army
-phishing.mailscanner.info
 phishing-filter.pages.dev
+phish.sinking.yachts
 prigent-protect.com
-public-dns.info
-publicsuffix.org
 pup-filter.pages.dev
-qme.mydns.jp
-quidsup.net
-rawcdn.githack.com
-raw.github.com
 raw.githubusercontent.com
-raw.githubusercontents.com
-raw.hellogithub.com
+rawcdn.githack.com
 reddestdream.github.io
-repo.or.cz
-report.rutgers.edu
-reputation.alienvault.com
-rescure.me
-s3.amazonaws.com
-s.bouras.free.fr
-sblam.com
-schakal.ru
 secure.fanboy.co.nz
-sebsauvage.net
 sgv417.jp
 smokingwheels.github.io
-social.mxchange.org
 someonewhocares.org
-sourceforge.net
+source.zhijie.online
 static.snaptube.in
-static.squarespace.com
 stevenblack.github.io
-stopforumspam.com
-supportforums.cisco.com
-sysctl.org
-szojox.ugu.pl
-tecnopcx.com
-tgc.cloud
-thedumbterminal.co.uk
 threatfox.abuse.ch
-threatview.io
-tor.taxi
-ublockorigin.pages.dev
-unix.oppserver.net
 urlhaus.abuse.ch
 urlhaus-filter.pages.dev
 v.firebog.net
 vn-badsite-filter.pages.dev
-void.gr
-watweewoo.altervista.org
-web.archive.org
-winhelp2002.mvps.org
-www.bentasker.co.uk
-www.binarydefense.com
-www.botvrij.eu
-www.brazilfw.com.br
-www.dropbox.com
 www.fanboy.co.nz
-www.gdargaud.net
 www.github.developerdan.com
-www.globalantiscam.org
 www.hostsfile.org
-www.i-dont-care-about-cookies.eu
-www.jabcreations.com
-www.jaguarforums.com
 www.joewein.net
-www.lansystem.com.br
-www.mikerichardson.name
 www.mvps.org
-www.niecko.pl
-www.nubi-network.com
-www.physik.tu-berlin.de
 www.sgv417.jp
-www.stopforumspam.com
-www.taz.net.au
 www.void.gr
-zoso.ro
+winhelp2002.mvps.org
 zonefiles.io
