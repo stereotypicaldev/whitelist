@@ -1,16 +1,22 @@
-# This hallowed ledger outlines the **trusted NTP anchors** for your Pi-hole,
-# ensuring precise time synchronization across your network.
+# Pi-hole Allowlist - NTP Temporal Anchors
+# Date: July 13, 2025
 #
-# Only **unimpeachable sources** belong here; accurate time is the bedrock
-# of network integrity and security, guarding against temporal discord
-# and its digital vulnerabilities.
+# This file meticulously lists the trusted Network Time Protocol (NTP) servers.
+# These domains are explicitly allowed to ensure your network clients can
+# achieve precise and reliable time synchronization through Pi-hole.
 #
-# Each line presents a single NTP server (hostname or IP).
+# The inclusion of only unimpeachable NTP sources is paramount. Accurate time
+# is the bedrock of network integrity and security, safeguarding against temporal
+# discord and its associated vulnerabilities.
+#
+# Each line should present a single NTP server hostname.
 # Lines prefixed with '#' serve as silent comments, unburdened by processing.
 #
-# For deeper insights, consult the official Pi-hole documentation.
-
-# --- **Approved NTP Servers Commence Below** ---
+# Note: This list is exclusively for NTP server domains to facilitate
+# time synchronization. It is not intended for general whitelisting.
+# Review all entries with utmost care.
+#
+# --- Approved NTP Servers Commence Below ---
 
 0.amazon.pool.ntp.org
 0.android.pool.ntp.org
