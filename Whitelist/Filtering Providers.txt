@@ -16,6 +16,12 @@
 #
 # --- Begin Allowlist Domains ---
 
+
+ideone.com
+hostsfile.mine.nu
+raw.github.com
+objects.githubusercontent.com
+
 adaway.org
 adblock-korea.googlecode.com
 adblock.gjtech.net
