@@ -21,7 +21,8 @@ ideone.com
 hostsfile.mine.nu
 raw.github.com
 objects.githubusercontent.com
-
+filter.futa.gg
+codeberg.org
 adaway.org
 adblock-korea.googlecode.com
 adblock.gjtech.net
