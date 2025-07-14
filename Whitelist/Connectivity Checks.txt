@@ -1,11 +1,9 @@
 # Pi-hole Allowlist – Connectivity Check Domains
 # Updated: July 14, 2025
 #
-# ⚠️ WARNING: Allowing these domains can enable devices to bypass Pi-hole filtering.
-# Only permit domains that are necessary for your network's operation.
+# Connectivity checks are tools that test whether one computer or device can successfully communicate with another over a network.
+# They help identify issues like blocked connections or misconfigured settings by simulating the communication process.
 #
-# Review all entries with utmost care.
-
 # --- Connectivity Check Domains Commence Below ---
 
 # Microsoft (Windows & Xbox)
