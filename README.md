@@ -60,5 +60,3 @@ This repository auto-backs up the **allowlist (whitelist)** for a Pi-hole instan
 ## ✅ License
 
 [MIT License](LICENSE) – do whatever you want with this. Just don’t sue me.
-
----
