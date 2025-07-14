@@ -16,7 +16,6 @@
 #
 # --- Begin Allowlist Domains ---
 
-abp-corset.googlecode.com
 adaway.org
 adblock-korea.googlecode.com
 adblock.gjtech.net
@@ -27,8 +26,8 @@ adguard.com
 adguardteam.github.io
 adrules.top
 airvpn.org
+alphabetize,deduplicate
 anal.fi
-angelfire.com
 api.stopmodreposts.org
 argon.molinero.dev
 assets.windscribe.com
@@ -69,6 +68,7 @@ gist.github.com
 gist.githubusercontent.com
 git.herrbischoff.com
 github.com
+github.githubassets.com
 github.moeyy.xyz
 githubusercontent.com
 gitlab.com
@@ -114,8 +114,8 @@ pastebin.com
 people.well.com
 pgl.yoyo.org
 phish.sinking.yachts
-phishing-filter.pages.dev
 phishing.army
+phishing-filter.pages.dev
 phishing.mailscanner.info
 pup-filter.pages.dev
 qme.mydns.jp
@@ -146,7 +146,7 @@ taz.net.au
 techpowerup.com
 tecnopcx.com
 tgc.cloud
-thedumbterminal.co.uk
+the­dumbterminal.co.uk
 threatfox.abuse.ch
 threatview.io
 tor.taxi
