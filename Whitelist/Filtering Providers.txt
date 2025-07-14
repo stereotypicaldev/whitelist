@@ -157,6 +157,7 @@ v.firebog.net
 vault.dediserve.com
 vn-badsite-filter.pages.dev
 void.gr
+szojox.ugu.pl
 watweewoo.altervista.org
 web.archive.org
 winhelp2002.mvps.org
