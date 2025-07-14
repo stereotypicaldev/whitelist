@@ -5,13 +5,8 @@
 # These entries are explicitly allowed to ensure your network clients can
 # resolve and access essential shortening services without interference.
 #
-# ⚠️ WARNING: URL shorteners can obscure malicious destinations.
-# Allow only domains that appear in legitimate traffic or are operationally required.
-#
 # Note: This list is exclusively for URL shortener domains to facilitate
 # link resolution. It is not intended for general whitelisting.
-#
-# Review all entries YOUSELF with utmost care.
 #
 # --- Approved URL Shortener Domains Commence Below ---
 
