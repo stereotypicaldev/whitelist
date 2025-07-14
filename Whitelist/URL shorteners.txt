@@ -56,13 +56,13 @@ polr.cc                 # Polr – lightweight PHP self‑hosted shortener
 yourls.org              # YOURLS – mature PHP-based self-hosted solution with plugins  
 kutt.it                 # Kutt – modern Node.js shortener with API and custom domains  
 shlink.io               # Shlink – feature-rich PHP shortener with CLI, REST API, Docker support  
-dub.co                  # Dub – open-source link manager used by Vercel, Perplexity, Raycast :contentReference[oaicite:1]{index=1}  
-krtk.ee                 # Krtk – Go + SQLite, captcha-protected, minimal; no login needed :contentReference[oaicite:2]{index=2}  
+dub.co                  # Dub – open-source link manager used by Vercel, Perplexity, Raycast 
+krtk.ee                 # Krtk – Go + SQLite, captcha-protected, minimal; no login needed
 l8.nu                   # l8.nu – ultra-lightweight, no tracking or account required  
 pckd.io                 # Pckd – minimal tracker alternative with QR support  
-rs-short                # rs-short – Rust-based, fast with caching and spam-bot protection :contentReference[oaicite:3]{index=3}  
-GoShort.app             # GoShort – Go/Svelte shortener, blazing fast, Docker-ready (self-hosted) :contentReference[oaicite:4]{index=4}  
-Fli.so                  # Fli.so – modern open-source shortener from DunSuite (Svelte, analytics, Docker) :contentReference[oaicite:5]{index=5}  
+rs-short                # rs-short – Rust-based, fast with caching and spam-bot protection 
+GoShort.app             # GoShort – Go/Svelte shortener, blazing fast, Docker-ready (self-hosted)
+Fli.so                  # Fli.so – modern open-source shortener from DunSuite (Svelte, analytics, Docker)
 
 # ─────────────────────────────────────────────────────────────
 # Minimalist / Lightweight / Popular ccTLD-Based
@@ -73,7 +73,3 @@ tiny.cc                 # Tiny.cc – customizable suffixes and simple stats
 bit.do                  # Bit.do – real-time stats, alias support  
 eepurl.com              # Mailchimp’s redirector used in campaigns (eepurl…)  
 shrtco.de               # Shrtcode – privacy-aware, negligible tracking alternative  
-
-# ─────────────────────────────────────────────────────────────
-# End of Trusted Shortener List
-# ─────────────────────────────────────────────────────────────
