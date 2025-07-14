@@ -1,12 +1,17 @@
+# ─────────────────────────────────────────────────────────────
 # Pi-hole Allowlist – Connectivity Check Domains
 # Updated: July 14, 2025
+# ─────────────────────────────────────────────────────────────
 #
 # Connectivity checks are tools that test whether one computer or device can successfully communicate with another over a network.
 # They help identify issues like blocked connections or misconfigured settings by simulating the communication process.
 #
 # --- Connectivity Check Domains Commence Below ---
 
+# ─────────────────────────────────────────────────────────────
 # Microsoft (Windows & Xbox)
+# ─────────────────────────────────────────────────────────────
+
 msftconnecttest.com
 www.msftconnecttest.com
 ipv6.msftconnecttest.com
@@ -14,38 +19,59 @@ dns.msftncsi.com
 www.msftncsi.com
 ipv6.msftncsi.com
 
+# ─────────────────────────────────────────────────────────────
 # Apple (macOS & iOS)
+# ─────────────────────────────────────────────────────────────
+
 captive.apple.com
 www.apple.com
 
+# ─────────────────────────────────────────────────────────────
 # Android & Chrome OS
+# ─────────────────────────────────────────────────────────────
+
 connectivitycheck.gstatic.com
 connectivitycheck.android.com
 clients3.google.com
 android.clients.google.com
 
+# ─────────────────────────────────────────────────────────────
 # General Connectivity Checks
+# ─────────────────────────────────────────────────────────────
+
 www.google.com
 clients3.google.com
 connectivitycheck.gstatic.com
 
+# ─────────────────────────────────────────────────────────────
 # Web Browsers
+# ─────────────────────────────────────────────────────────────
+
 detectportal.firefox.com
 detectportal.brave.com
 detectportal.brave-http-only.com
 
+# ─────────────────────────────────────────────────────────────
 # Cloudflare
+# ─────────────────────────────────────────────────────────────
+
 connectivity.cloudflareclient.com
 cloudflareclient.com
 cloudflareok.com
 cloudflarecp.com
 cloudflareportal.com
 
+# ─────────────────────────────────────────────────────────────
 # Cisco AnyConnect
+# ─────────────────────────────────────────────────────────────
+
 captive-portal.anyconnect.com
 anyconnect.captiveportal.com
 
+# ─────────────────────────────────────────────────────────────
 # NetworkManager (Linux)
+# ─────────────────────────────────────────────────────────────
+
 nmcheck.gnome.org
 networkcheck.kde.org
 
