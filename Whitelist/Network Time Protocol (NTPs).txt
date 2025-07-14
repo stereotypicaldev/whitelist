@@ -18,6 +18,10 @@
 #
 # --- Approved NTP Servers Commence Below ---
 
+3.datadog.pool.ntp.org
+2.datadog.pool.ntp.org
+1.datadog.pool.ntp.org
+0.datadog.pool.ntp.org
 0.amazon.pool.ntp.org
 0.android.pool.ntp.org
 0.anl.gov
