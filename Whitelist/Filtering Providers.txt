@@ -39,7 +39,6 @@ blocklist.greensnow.co
 blocklist.site
 blocklistproject.github.io
 blokada.org
-blog-imgs-49.fc2.com
 browser.coccoc.com
 bugs.ruby-lang.org
 bugs.ruby-lang.org.herokudns.com
@@ -125,6 +124,7 @@ rawcdn.githack.com
 reddestdream.github.io
 repo.or.cz
 rescure.me
+s.bouras.free.fr
 schakal.ru
 secure.fanboy.co.nz
 sgv417.jp
@@ -140,6 +140,7 @@ supportforums.cisco.com
 sysctl.org
 taz.net.au
 tecnopcx.com
+techpowerup.com
 tgc.cloud
 threatfox.abuse.ch
 threatview.io
