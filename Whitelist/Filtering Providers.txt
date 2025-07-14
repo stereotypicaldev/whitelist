@@ -26,8 +26,8 @@ adguard.com
 adguardteam.github.io
 adrules.top
 airvpn.org
-alphabetize,deduplicate
 anal.fi
+anti-ad.net
 api.stopmodreposts.org
 argon.molinero.dev
 assets.windscribe.com
@@ -146,7 +146,7 @@ taz.net.au
 techpowerup.com
 tecnopcx.com
 tgc.cloud
-the­dumbterminal.co.uk
+the-dumbterminal.co.uk
 threatfox.abuse.ch
 threatview.io
 tor.taxi
