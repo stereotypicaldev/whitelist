@@ -16,6 +16,27 @@
 #
 # --- Begin Allowlist Domains ---
 
+lists.cyberhost.uk
+urlhaus.abuse.ch
+avoidthehack.com
+v.firebog.net
+pgl.yoyo.org
+phishing.army
+adaway.org
+adblock.mahakala.is
+www.joewein.net
+hostsfile.org
+hostsfile.mine.nu
+paulgb.github.io
+v.firebog.net
+winhelp2002.mvps.org
+bitbucket.org
+hostfiles.frogeye.fr
+www.github.developerdan.com
+malware-filter.gitlab.io
+v.firebog.net
+oisd.nl
+paulgb.github.io
 blocklistproject.github.io
 avoidthehack.com
 adaway.org
