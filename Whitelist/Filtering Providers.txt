@@ -16,6 +16,8 @@
 #
 # --- Begin Allowlist Domains ---
 
+blocklistproject.github.io
+avoidthehack.com
 adaway.org
 adblock-korea.googlecode.com
 adblock.gjtech.net
