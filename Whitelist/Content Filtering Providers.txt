@@ -18,10 +18,13 @@
 
 small.oisd.nl
 nsfw-small.oisd.nl
+small.oisd.nl
+nsfw-small.oisd.nl
 nsfw.oisd.nl
 big.oisd.nl
 lists.cyberhost.uk
 urlhaus.abuse.ch
+big.oisd.nl
 avoidthehack.com
 v.firebog.net
 pgl.yoyo.org
