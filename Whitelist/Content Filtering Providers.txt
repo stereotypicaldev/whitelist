@@ -16,6 +16,10 @@
 #
 # --- Begin Allowlist Domains ---
 
+small.oisd.nl
+nsfw-small.oisd.nl
+nsfw.oisd.nl
+big.oisd.nl
 lists.cyberhost.uk
 urlhaus.abuse.ch
 avoidthehack.com
