@@ -1,0 +1,13 @@
+ud-chat.signal.org
+chat.signal.org
+storage.signal.org
+signal.org
+www.signal.org
+updates2.signal.org
+textsecure-service-whispersystems.org
+giphy-proxy-production.whispersystems.org
+cdn.signal.org
+whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
+api.directory.signal.org
+contentproxy.signal.org
+turn1.whispersystems.org
