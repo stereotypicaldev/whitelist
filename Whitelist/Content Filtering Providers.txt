@@ -16,6 +16,8 @@
 #
 # --- Begin Allowlist Domains ---
 
+
+release-assets.githubusercontent.com
 badmojr.github.io
 forum.xda-developers.com
 xdaforums.com
