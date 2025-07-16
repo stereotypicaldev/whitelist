@@ -1,0 +1,14 @@
+akamaiedge.net
+ap.spotify.com
+betrad.com
+cdn.betrad.com
+cloudfront.net
+d2c87l0yth4zbw.cloudfront.net
+embed.spotify.com
+gslb.spotify.com
+l.betrad.com
+play.spotify.com
+play.spotify.edgekey.net
+spapps.co
+spapps.spotify.edgekey.net
+spotify.com
