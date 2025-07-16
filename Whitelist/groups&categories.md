@@ -26,15 +26,8 @@
 - DietPi?
 - Linux?
 
-# Applications (Distro-Agnostic)
+## Android 
 
-## Microsoft Services 
-
-- Microsoft Defender
-- Microsoft Office
-- Microsoft Outlook
-- Microsoft Teams
-- Microsoft 365
 - Google Play Store
 
 ## Music Services
@@ -49,15 +42,9 @@
 - Amazon Audible
 
 - Apple iCloud
-- Google Services (APIs)
-- Google Mail (Gmail)
-- Google Maps - Street View
-- Paypal
-
-## Websites
-
-- Bitwarden
-- ChatGPT
+- Google Services
+  - Google Mail (Gmail)
+  - Google Maps - Street View
 
 ## Web Browsers
 
