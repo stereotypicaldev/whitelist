@@ -16,6 +16,8 @@
 #
 # --- Begin Allowlist Domains ---
 
+
+curbengh.github.io
 small.oisd.nl
 nsfw-small.oisd.nl
 small.oisd.nl
