@@ -17,6 +17,9 @@
 # --- Begin Allowlist Domains ---
 
 
+
+getadhell.com
+justdomains.github.io
 sites.google.com
 logroid.blogspot.com
 abpvn.com
