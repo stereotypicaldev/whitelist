@@ -16,7 +16,9 @@
 #
 # --- Begin Allowlist Domains ---
 
-
+badmojr.github.io
+forum.xda-developers.com
+xdaforums.com
 curbengh.github.io
 small.oisd.nl
 nsfw-small.oisd.nl
