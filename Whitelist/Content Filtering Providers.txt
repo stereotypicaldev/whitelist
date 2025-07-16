@@ -17,6 +17,7 @@
 # --- Begin Allowlist Domains ---
 
 
+abpvn.com
 release-assets.githubusercontent.com
 badmojr.github.io
 forum.xda-developers.com
