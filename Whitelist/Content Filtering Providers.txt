@@ -16,6 +16,16 @@
 #
 # --- Begin Allowlist Domains ---
 
+
+warui.intaa.net
+rescure.fruxlabs.com
+www.bentasker.co.uk
+asc.hk
+s3.amazonaws.com
+oooo.b-cdn.net
+perflyst.github.io
+oooo.b-cdn.net
+mkb2091.github.io
 s3.amazonaws.com
 ublockorigin.pages.dev
 ublockorigin.github.io
