@@ -16,6 +16,7 @@
 #
 # --- Begin Allowlist Domains ---
 
+s3.amazonaws.com
 ublockorigin.pages.dev
 ublockorigin.github.io
 getadhell.com
