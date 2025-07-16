@@ -14,8 +14,6 @@
 - Network-Time Protocols (NTPs)
 - Version Control Systems (VCs)
 - Visual Studio Code (VSc)
-
-- Cloud-Based Storage ---- rename
 - Streaming Platforms (Distribution Networks)
 - Pornography (NSFW)
 - Online Retail Platforms (e-Commerce)
