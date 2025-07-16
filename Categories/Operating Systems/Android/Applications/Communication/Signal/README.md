@@ -11,3 +11,5 @@ whispersystems-textsecure-attachments.s3-accelerate.amazonaws.com
 api.directory.signal.org
 contentproxy.signal.org
 turn1.whispersystems.org
+cms.souqcdn.com
+souqcdn.com
