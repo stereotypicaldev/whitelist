@@ -67,7 +67,6 @@
 ## Social Media
 
 - Discord
-- Facebook
 - Facebook Messenger
 - Instagram
 - Reddit
