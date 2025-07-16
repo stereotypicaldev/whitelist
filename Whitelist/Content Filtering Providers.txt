@@ -17,6 +17,8 @@
 # --- Begin Allowlist Domains ---
 
 
+sites.google.com
+logroid.blogspot.com
 abpvn.com
 release-assets.githubusercontent.com
 badmojr.github.io
