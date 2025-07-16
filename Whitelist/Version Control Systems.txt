@@ -1,0 +1,15 @@
+githubusercontent.com
+github.map.fastly.net
+gitlab.com
+gist.githubusercontent.com
+api.github.com
+collector.github.com
+camo.githubusercontent.com
+avatars.githubusercontent.com
+github.dev
+alive.github.com
+media.githubusercontent.com
+objects.githubusercontent.com
+gist.github.com
+raw.github.com
+github.githubassets.com
