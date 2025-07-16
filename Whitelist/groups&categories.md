@@ -25,7 +25,6 @@
 - Synology??????
 - DietPi?
 - Linux?
-- Microsoft Windows
 
 # Applications (Distro-Agnostic)
 
