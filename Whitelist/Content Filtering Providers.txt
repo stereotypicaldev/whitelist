@@ -16,8 +16,8 @@
 #
 # --- Begin Allowlist Domains ---
 
-
-
+ublockorigin.pages.dev
+ublockorigin.github.io
 getadhell.com
 justdomains.github.io
 sites.google.com
