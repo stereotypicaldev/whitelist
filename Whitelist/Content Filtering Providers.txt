@@ -16,7 +16,10 @@
 #
 # --- Begin Allowlist Domains ---
 
-
+ublockorigin.github.io
+ublockorigin.pages.dev
+malware-filter.pages.dev
+curbengh.github.io
 warui.intaa.net
 rescure.fruxlabs.com
 www.bentasker.co.uk
