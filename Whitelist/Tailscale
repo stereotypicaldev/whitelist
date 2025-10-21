@@ -1,0 +1,6 @@
+pkgs.tailscale.com
+login.tailscale.com
+log.tailscale.io
+controlplane.tailscale.com
+derp4g.tailscale.com
+derp26d.tailscale.com
