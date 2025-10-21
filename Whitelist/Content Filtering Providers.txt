@@ -31,6 +31,7 @@ s3.amazonaws.com
 oooo.b-cdn.net
 perflyst.github.io
 oooo.b-cdn.net
+mangolassi.it
 mkb2091.github.io
 s3.amazonaws.com
 ublockorigin.pages.dev
