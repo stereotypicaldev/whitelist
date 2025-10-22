@@ -12,3 +12,4 @@ objects.githubusercontent.com
 gist.github.com
 raw.github.com
 github.githubassets.com
+consumer.cloud.gist.build
