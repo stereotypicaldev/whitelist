@@ -1,5 +1,8 @@
 www.reddit.com
+a.thumbs.redditmedia.com
 b.thumbs.redditmedia.com
 styles.redditmedia.com
 www.redditstatic.com
 embed.reddit.com
+external-preview.redd.it
+preview.redd.it
