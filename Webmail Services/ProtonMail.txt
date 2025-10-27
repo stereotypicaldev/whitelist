@@ -3,3 +3,4 @@ account.proton.me
 account-api.proton.me
 mail.proton.me
 mail-api.proton.me
+reports.proton.me
