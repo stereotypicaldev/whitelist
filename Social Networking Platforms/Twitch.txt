@@ -1,0 +1,9 @@
+spade.sci.twitch.tv
+k.twitchcdn.net
+irc-ws.chat.twitch.tv
+hermes.twitch.tv
+usher.ttvnw.net
+gql.twitch.tv
+api.twitch.tv
+static-cdn.jtvnw.net
+m.twitch.tv
