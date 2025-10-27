@@ -1,1 +1,2 @@
-
+public.api.bsky.app
+web-cdn.bsky.app
