@@ -8,3 +8,6 @@ api.twitch.tv
 static-cdn.jtvnw.net
 m.twitch.tv
 passport.twitch.tv
+assets.twitch.tv
+www.twitch.tv
+twitch.tv
