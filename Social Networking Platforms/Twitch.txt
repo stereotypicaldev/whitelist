@@ -7,3 +7,4 @@ gql.twitch.tv
 api.twitch.tv
 static-cdn.jtvnw.net
 m.twitch.tv
+passport.twitch.tv
