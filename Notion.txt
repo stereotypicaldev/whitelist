@@ -1,3 +1,4 @@
+notion.so
 www.notion.so
 msgstore-001.www.notion.so
 msgstore-002.www.notion.so
