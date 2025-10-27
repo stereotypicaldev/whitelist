@@ -3,3 +3,4 @@ instantmessaging-pa-jms-eu.googleapis.com
 static.cdninstagram.com
 i.instagram.com
 scontent.cdninstagram.com
+www.instagram.com
