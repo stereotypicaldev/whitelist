@@ -1,3 +1,15 @@
 edge-chat.facebook.com
 m.me
 www.messenger.com
+web.facebook.com
+connect.facebook.net
+mqtt-mini.facebook.com
+www.facebook.com
+edge-mqtt.facebook.com
+scontent.xx.fbcdn.net
+chat-e2ee-mini-fallback.facebook.com
+z-p42-chat-e2ee-ig.facebook.com
+gateway.facebook.com
+chat-e2ee-mini.facebook.com
+z-m-gateway.facebook.com
+mqtt-ig-p4.facebook.com
