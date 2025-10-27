@@ -4,3 +4,8 @@ static.cdninstagram.com
 i.instagram.com
 scontent.cdninstagram.com
 www.instagram.com
+edge-chat.instagram.com
+instagram.c10r.facebook.com
+instagram.c10r.facebook.com
+instagram.fskg1-2.fna.fbcdn.net
+web-chat-e2ee.instagram.com
