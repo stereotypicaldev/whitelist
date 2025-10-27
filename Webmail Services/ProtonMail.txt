@@ -1,0 +1,4 @@
+proton.me
+account.proton.me
+account-api.proton.me
+mail.proton.me
