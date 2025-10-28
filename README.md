@@ -1,62 +1,40 @@
 <h1 align="center">Whitelist</h1>
 <br>
 
-This repository auto-backs up the **allowlist (whitelist)** for a Pi-hole instance, organized by service category for easier management and restoration.
+A robust system for aggregating, categorizing, and managing personal whitelists. It provides a structured, easily navigable collection of trusted domains, for a **minimal** unblocking of services. To be used only as a baseline, can be region specific.
 
----
-
-## 🗂️ Repository Structure
-
-```
-.
-├── backup.sh
-├── categories/
-│   ├── streaming.txt
-│   ├── analytics.txt
-│   ├── dev-tools.txt
-│   ├── social.txt
-│   └── ...
-└── README.md
-```
----
-
-## 🛠️ Prerequisites
-
-- Linux environment (e.g. Debian/Raspbian)  
-- `pihole` CLI tool installed and configured  
-- (Optional) `jq`, `grep`, `awk`
-
----
-
-## 🧩 Categories
-
-- `streaming.txt` – Domains related to streaming services (e.g., Netflix, Hulu)  
-- `analytics.txt` – Tracking and analytics domains (e.g., Google Analytics)  
-- `dev-tools.txt` – Dev‑related domains (e.g., GitHub, Docker)  
-- `social.txt` – Social media domains (e.g., Facebook, Twitter)  
-- Add as many custom categories as your use-case dictates.
-
----
-
-## 🧠 Usage
-
-1. Clone this repo onto your Pi-hole host (or a cron‑enabled host).  
-2. Make `backup.sh` executable:  
-   ```bash
-   chmod +x backup.sh
-   ```  
-3. (Optional) Schedule in cron to run nightly:  
-   ```bash
-   0 2 * * * /path/to/backup.sh >> /var/log/pihole-backup.log 2>&1
-   ```  
-4. Inspect `categories/` for domain lists—useful for auditing or editing.  
-5. To restore, feed the desired allowlist back into Pi-hole:  
-   ```bash
-   xargs -a categories/streaming.txt -r pihole -w
-   ```
+Want to report a new domain? Want to report existing one? Feel free to file an issue.
 
 ---
 
 ## ✅ License
 
 [MIT License](LICENSE) – do whatever you want with this. Just don’t sue me.
+
+## Supplemental Resources
+
+- [ ] https://github.com/anudeepnd/whitelist
+
+- [ ] https://github.com/cparsell/blocklists-whitelists
+
+- [ ] https://github.com/deathbybandaid/pihole-whitelists
+
+- [ ] https://github.com/hl2guide/adguard-home-whitelist
+
+- [ ] https://github.com/ultimate-hosts-blacklist/whitelist
+
+- [ ] https://github.com/systemjargon/allowlists
+
+- [ ] https://github.com/stevoh6/pihole---allow-and-block-lists
+
+- [ ] https://github.com/arkane-systems/pi-hole-whitelist
+
+- [ ] https://github.com/silv3rr/pihole-scripts
+
+- [ ] https://github.com/Keloran/pihole-whitelist
+
+- [ ] https://github.com/rahilpathan/pihole-whitelist
+
+- [ ] https://github.com/TJohnson93/PiHoleWhiteLists
+
+- [ ] https://github.com/GoodnessJSON/PiHole-Whitelist
