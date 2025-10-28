@@ -11,3 +11,6 @@ passport.twitch.tv
 assets.twitch.tv
 www.twitch.tv
 twitch.tv
+vod-secure.twitch.tv
+global.poe.live-video.net
+panels.twitch.tv
