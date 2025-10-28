@@ -7,8 +7,6 @@ www.z-lib.fo
 z-lib.fo
 www.z-library.gs
 z-library.gs
-www.brocoflix.xyz
-brocoflix.xyz
 www.z-lib.gl
 www.z-lib.gd
 z-lib.gl
