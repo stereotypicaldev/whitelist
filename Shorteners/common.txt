@@ -1,0 +1,70 @@
+# Pi-hole Allowlist – "Trusted" URL Shortener Domains
+# Updated Last — July 14, 2025
+#
+# This file meticulously lists domains of reputable URL shorteners.
+# These entries are explicitly allowed to ensure your network clients can
+# resolve and access essential shortening services without interference.
+#
+# Note: This list is exclusively for URL shortener domains to facilitate
+# link resolution. It is not intended for general whitelisting.
+#
+# --- Approved URL Shortener Domains Commence Below ---
+
+# ─────────────────────────────────────────────────────────────
+# Global Giants & Platform-Owned Domains
+# ─────────────────────────────────────────────────────────────
+
+bit.ly                  # Bitly – leader in enterprise link management & analytics  
+tinyurl.com             # TinyURL – since 2002, stable long‑term service, no expiry  
+t.co                    # Twitter/X official shortener for tweet links  
+g.co                    # Google redirect domain for Google-owned properties  
+aka.ms                  # Microsoft short links (Azure, OneDrive, MFA setup, etc.)  
+ow.ly                   # Hootsuite shortening domain for social scheduling  
+buff.ly                 # Buffer’s branded short URLs within its platform  
+fb.me                   # Meta’s (Facebook) short domain for shared links  
+wa.me                   # WhatsApp official click‑to‑chat short link domain  
+t.me                    # Telegram official short link domain for shared content  
+wp.me                   # WordPress.com / Jetpack branded short domain  
+nyti.ms                 # New York Times short links served via Bitly backend  
+
+# ─────────────────────────────────────────────────────────────
+# Enterprise / SMB–Focused Shorteners
+# ─────────────────────────────────────────────────────────────
+
+rebrandly.com           # Rebrandly – full-branding, deep analytics, enterprise capabilities  
+bl.ink                  # BL.INK – enterprise-grade link analytics & smart redirects  
+short.io                # Short.io – geo/device routing, branded links, API access  
+cutt.ly                 # Cutt.ly – analytics, QR codes, free tier & SMS compliance  
+t.ly                    # T.LY – ultra-short branded links, browser extensions  
+t2mio.com               # T2M – QR code integration + bulk shortening + campaign tracking  
+sniply.io               # Sniply – add CTAs to links for conversion tracking  
+joturl.com              # JotURL – A/B testing, geo-targeting, team access, conversion tracking  
+capsulink.com           # Capsulink – QR, branded domains, analytics dashboard  
+linkfire.com            # Linkfire – widely used in music & retail campaigns  
+lnnkin.com              # Lnnkin – password protection and customizable links for campaigns  
+
+# ─────────────────────────────────────────────────────────────
+# Open‑Source / Self‑Hosted / Privacy‑Focused
+# ─────────────────────────────────────────────────────────────
+
+polr.cc                 # Polr – lightweight PHP self‑hosted shortener  
+yourls.org              # YOURLS – mature PHP-based self-hosted solution with plugins  
+kutt.it                 # Kutt – modern Node.js shortener with API and custom domains  
+shlink.io               # Shlink – feature-rich PHP shortener with CLI, REST API, Docker support  
+dub.co                  # Dub – open-source link manager used by Vercel, Perplexity, Raycast 
+krtk.ee                 # Krtk – Go + SQLite, captcha-protected, minimal; no login needed
+l8.nu                   # l8.nu – ultra-lightweight, no tracking or account required  
+pckd.io                 # Pckd – minimal tracker alternative with QR support  
+rs-short                # rs-short – Rust-based, fast with caching and spam-bot protection 
+GoShort.app             # GoShort – Go/Svelte shortener, blazing fast, Docker-ready (self-hosted)
+Fli.so                  # Fli.so – modern open-source shortener from DunSuite (Svelte, analytics, Docker)
+
+# ─────────────────────────────────────────────────────────────
+# Minimalist / Lightweight / Popular ccTLD-Based
+# ─────────────────────────────────────────────────────────────
+
+is.gd                   # is.gd – minimal, anonymous, long-established  
+tiny.cc                 # Tiny.cc – customizable suffixes and simple stats  
+bit.do                  # Bit.do – real-time stats, alias support  
+eepurl.com              # Mailchimp’s redirector used in campaigns (eepurl…)  
+shrtco.de               # Shrtcode – privacy-aware, negligible tracking alternative  
