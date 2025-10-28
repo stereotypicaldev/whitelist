@@ -1,2 +1,3 @@
 static.whatsapp.net
 g.whatsapp.net
+media.fskg1-1.fna.whatsapp.net
