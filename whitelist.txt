@@ -17,3 +17,4 @@ linktr.ee
 roadmap.sh
 quickref.me
 example.org
+cdn.jsdelivr.net
