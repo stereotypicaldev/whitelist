@@ -16,3 +16,4 @@ releases.obsidian.md
 linktr.ee
 roadmap.sh
 quickref.me
+example.org
